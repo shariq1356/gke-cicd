@@ -7,5 +7,5 @@ metadata:
 description: prod
 requireApproval: true
 gke:
-  cluster: projects/gke-cicd-421103/locations/us-central1-c/clusters/cluster-2
+  cluster: projects/gke-cicd-421103/locations/me-central1-c/clusters/cluster-2
 
