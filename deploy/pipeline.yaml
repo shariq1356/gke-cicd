@@ -16,3 +16,6 @@ serialPipeline:
   - targetId: prod
   #   profiles:
   #   - prod
+
+
+  #enabled deploy api as build was failing. 
